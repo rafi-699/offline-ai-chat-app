@@ -5,4 +5,6 @@ Copy .env.example → .env and fill values
 
 Model downloads automatically on first launch
 
+Run command: python main.py
+
 Build command: uv run python -m PyInstaller rafigpt.spec --clean
